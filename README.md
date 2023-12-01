@@ -1,4 +1,4 @@
-# Web untuk RPL
+# Web untuk Sistem Toko Retail
 Web ini dirancang hanya menggunakan HTML CSS dan PHP dan database nya menggunakan xampp .Berikut saya akan menjelaskan cara menjalankan apa yang saya buat dari login hingga logout 
 ## Menjalankan Login
 Pada tampilan login bisa klik login untuk pergi ke akun kalau tidak punya akun klik register terlebih dahulu 
